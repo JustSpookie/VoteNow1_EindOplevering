@@ -1,0 +1,17 @@
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\bin\Debug\net6.0\DataTransferObjects.dll
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\bin\Debug\net6.0\Interfaces.dll
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\bin\Debug\net6.0\Interfaces.pdb
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\bin\Debug\net6.0\DataTransferObjects.pdb
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\storm\source\repos\VoteNow1\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

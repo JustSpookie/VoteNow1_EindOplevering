@@ -1,0 +1,44 @@
+﻿@model System.Data.DataTable
+
+@{
+    ViewData["Title"] = "Lijst kandidaten";
+}
+
+<div class="jumbotron">
+<h1 class="text-center">@ViewData["Title"]</h1>
+</div>  
+
+
+<table class="table table-bordered">
+    <thead class="thead-light">
+        <tr>
+            <th>
+                KandidaatNaam
+            </th>
+            <th>
+                <a asp-action="AddOrEdit">Toevoegen</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@for(int i = 0; i < Model.Rows.Count; i++) {
+        <tr>
+            <td>
+                @Model.Rows[i]["KandidaatNaam"]
+            </td>
+            <td>
+                <a asp-action="AddOrEdit" asp-route-id="@Model.Rows[i]["KandidaatID"]">Wijzigen</a> |
+                    @if(Int32.Parse(Model.Rows[i]["Delete"].ToString()) == 1)
+                    {
+                        <a asp-action="Delete" asp-route-id="@Model.Rows[i]["KandidaatID"]">Verwijderen</a>
+                        
+                    }
+                    @if(Int32.Parse(Model.Rows[i]["Delete"].ToString()) == 0)
+                    {
+                        <p>Zit in verkiezing!</p>
+                    }
+                </td>
+        </tr>
+}
+    </tbody>
+</table>

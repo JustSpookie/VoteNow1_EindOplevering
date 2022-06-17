@@ -1,0 +1,39 @@
+﻿@model System.Data.DataTable
+
+@{
+    ViewData["Title"] = "Lijst verkiezingen";
+}
+
+<div class="jumbotron">
+<h1 class="text-center">@ViewData["Title"]</h1>
+</div>  
+
+
+<table class="table table-bordered">
+    <thead class="thead-light">
+        <tr>
+            <th>
+                Verkiezingnaam
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@for(int i = 0; i < Model.Rows.Count; i++) {
+        <tr>
+            <td>
+                @Model.Rows[i]["VerkiezingNaam"]
+            </td>
+            <td>
+                @Model.Rows[i]["status"]
+            </td>
+            <td>
+                    @if(Int32.Parse(Model.Rows[i]["mogelijk"].ToString()) == 0)
+                    {
+                        <a asp-action="Stemmen" asp-route-id="@Model.Rows[i]["VerkiezingID"]">Stem</a>
+                    }
+                    <a asp-action="Resultaat" asp-route-id="@Model.Rows[i]["VerkiezingID"]">Resultaat</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

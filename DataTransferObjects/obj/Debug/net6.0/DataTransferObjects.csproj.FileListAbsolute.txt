@@ -1,0 +1,12 @@
+C:\Users\storm\source\repos\VoteNow1\DataTransferObjects\bin\Debug\net6.0\DataTransferObjects.deps.json
+C:\Users\storm\source\repos\VoteNow1\DataTransferObjects\bin\Debug\net6.0\DataTransferObjects.dll
+C:\Users\storm\source\repos\VoteNow1\DataTransferObjects\bin\Debug\net6.0\DataTransferObjects.pdb
+C:\Users\storm\source\repos\VoteNow1\DataTransferObjects\obj\Debug\net6.0\DataTransferObjects.csproj.AssemblyReference.cache
+C:\Users\storm\source\repos\VoteNow1\DataTransferObjects\obj\Debug\net6.0\DataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\storm\source\repos\VoteNow1\DataTransferObjects\obj\Debug\net6.0\DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\storm\source\repos\VoteNow1\DataTransferObjects\obj\Debug\net6.0\DataTransferObjects.AssemblyInfo.cs
+C:\Users\storm\source\repos\VoteNow1\DataTransferObjects\obj\Debug\net6.0\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\storm\source\repos\VoteNow1\DataTransferObjects\obj\Debug\net6.0\DataTransferObjects.dll
+C:\Users\storm\source\repos\VoteNow1\DataTransferObjects\obj\Debug\net6.0\refint\DataTransferObjects.dll
+C:\Users\storm\source\repos\VoteNow1\DataTransferObjects\obj\Debug\net6.0\DataTransferObjects.pdb
+C:\Users\storm\source\repos\VoteNow1\DataTransferObjects\obj\Debug\net6.0\ref\DataTransferObjects.dll
